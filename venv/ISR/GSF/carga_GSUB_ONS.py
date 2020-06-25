@@ -90,7 +90,7 @@ def le_arquivo (nome_arquivo):
 
 
 def define_excel():
-   ano = '2017'
+   ano = '2014'
    #file_path = os.path.join(r'C:\Users\dssilva\Documents\Demandas\2-Projeto-GSF\GSUB_ONS\2013\09 GSUB_Set 13.xls')
 
    nome_arq_sql = open(r'C:\Users\dssilva\Documents\Demandas\2-Projeto-GSF\GSUB_ONS\GSUB.sql', 'w+')
